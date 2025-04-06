@@ -1,2 +1,2 @@
 # home-gw
-MikroTik hap ac2 home gateway and access point
+Пример настройки домашнего роутера. Как пример взят MikroTik hAP ac2.
